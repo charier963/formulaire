@@ -1,0 +1,31 @@
+div {
+    display: flex;
+    flex-direction: column;
+    margin: autos;
+    width: 50%;
+    gap: 5px;
+
+}
+
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+label {
+    margin-block-start: 16px;
+    margin-block-end: 4px;
+
+}
+
+button {
+    background-color: blue;
+    color: aliceblue;
+    padding: 4px;
+    width: fit-content;
+
+}
+
+form {
+    gap: 5px;
+}
