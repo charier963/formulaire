@@ -15,11 +15,7 @@
 
 <body>
     <p>
-        Merci <?php echo $_POST['user_lastname']; ?> , <?php echo $_POST['user_firstname']; ?> de nous avoir contacté à propos de <?php echo $_POST['choixSubject']; ?>.
-
-        Un de nos conseillers vous contactera soit à l’adresse <?php echo $_POST['user_mail']; ?> ou par téléphone au <?php echo $_POST['telephone']; ?> dans les plus brefs délais pour traiter votre demande :
-
-        <?php echo $_POST['message']; ?>
+        Merci
     </p>
 </body>
 
